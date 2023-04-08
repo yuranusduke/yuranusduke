@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuranusduke
 - 👀 I’m interested in machine learning and deep learning, especially Computer Vision
 - 🌱 I’m currently learning at University of Warsaw
-- 🌹 Looking for ML/DL/DS job opportunity in Europe and 
+- 🌹 Looking for ML/DL/DS job opportunity in Europe
 - 🚢 Most importantly, enjoying life!!😊
 
 <!---
